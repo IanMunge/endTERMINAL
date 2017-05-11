@@ -3,3 +3,6 @@ terminal can direct you to all directories in your computer
 
 4.
 /*carBreaksDown*/
+
+7.
+/*passenger reaches endTERMINAL*/

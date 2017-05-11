@@ -9,3 +9,7 @@ terminal can direct you to all directories in your computer
 
 8.
 passenger needs to go backs to startTERMIANL(as a routine).passenger is paranoid.
+
+9.
+/*passenger meets one of the hijackers on the way.He beats him.
+the hijacker is starving and now injured*/

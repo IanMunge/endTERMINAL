@@ -6,3 +6,6 @@ terminal can direct you to all directories in your computer
 
 7.
 /*passenger reaches endTERMINAL*/
+
+8.
+passenger needs to go backs to startTERMIANL(as a routine).passenger is paranoid.

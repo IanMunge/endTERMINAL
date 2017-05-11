@@ -1,2 +1,5 @@
 terminal can direct you to all directories in your computer
 (bus)terminal can lead to different paths and destinations in your town
+
+#new line
+Ive started my journey.Destination is remote repo.
